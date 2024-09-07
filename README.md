@@ -3,11 +3,13 @@
 - 🌱 I’m currently learning ...git
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me ... social or email:
-fb - https://fb.com/steinsi/
-X - https://x.com/steinsi/
-E - mail - steinsi.is@steinsi.is
-G - mail - steinthorein@gmail.com 
+- 📫 How to reach me ... 
+social >
+fb | steinsi | https://fb.com/steinsi/
+X | steinsi | https://x.com/steinsi/
+or email:
+E - mail | steinsi.is@steinsi.is
+G - mail | steinthorein@gmail.com 
 
 
 <!---------------------------------------------
